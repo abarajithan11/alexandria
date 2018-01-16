@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label4.Text" xml:space="preserve">
+    <value>Alexandria: The Integrated Library System was named in order to honor The Royal Library of Alexandria, Egypt, the largest library of the ancient world. 
+
+Alexandria is a library automation system that manages a database of book catalogues, member details, lending details, member activity, administrator preferences and user accounts. Alexandria is built as an effective replacement for manual library information systems. It is designed specifically to function with minimum data input from the user by processing all the rest of the information with the aid of data in the database.</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>USE WITH CAUTION: Usage involves risk of serious bugs and errors.
+
+Although automation systems are claimed to be fast, accurate and consistent, bugs and errors, which are inevitable when building such a large system, can exist in the software and may cause a corruption in the data which may result in inconvenience or in loss of a large sum of money for the library management. As mentioned below in the project documentation, a system with 87 pages of coding, developed and tested individually, has all chances for the existence of serious bugs and errors which were not discovered when testing individually. Therefore, if, in case, this project is to be implemented on a real library, it is advisable to use the system in parallel with the manual system for few weeks to find possible bugs, which can later be informed to the developer and can be fixed in the next stable release.
+
+In addition to that, due to the short project duration, few more useful features which could be implemented have not been included in the system. If this project is to be used in real libraries, those and many other features can be included on user request in the next stable release.
+</value>
+  </data>
+  <data name="richTextBox2.Text" xml:space="preserve">
+    <value>I’m greatly indebted to all the individuals who offered their help, support and encouragement to make this project a success. I’d like to mention the names of few of them here, as a minor attempt to express my gratefulness.
+
+I owe my gratitude to Mr. Janaka Madiwaka, the ICT teacher of St. Sylvester’s College Kandy, who Introduced programming to us. Also, I’d like to thank the teachers of ESOFT: Miss K. Janarthanee, Mr. Vajjira Kulathunga, and Mrs. Zeenath, who introduced me the programming techniques used in this software.
+
+I owe my gratitude to my parents, especially to my mother and I'm thankful to the rest of my family members and friends who helped me to complete this project successfully
+
+I'm also thankful to websites and forums that helped me to learn out-of-syllabus techniques such as Stack Overflow, MSDN Social and W3Schools and to Google Image Search and countless web pages from which I could download images for the designs.
+
+Lastly I'd like to thank British Council Library, Kandy and D.S. Senanayake Library, Kandy where I could conduct a study of feasibility of manual and automated systems.</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>Alexandria was developed as the final project of Diploma in Software Engineering Course done in ESOFT, Kandy. The project was started on 8th of August and completed on 30th of August 2012. 
+
+Firstly, the features the system should possess were listed. Then, databases were designed and flowcharts were drawn. The coding process, in which 87 pages of coding and necessary comments were typed according to the flowchart blueprints, took more than two weeks. Then, user interfaces for each window were designed using appropriate software. Finally, the system was tested for possible bugs and then the project was documented and submitted.
+</value>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>A student of St. Sylvester's College Kandy. 17 years old. Joined in DISE course at Esoft in 2012 January. The Developer and Designer of the Alexandria Library Automation System.
+
+Contact: facebook.com/abarajithan11
+</value>
+  </data>
+  <metadata name="pictureBox1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>

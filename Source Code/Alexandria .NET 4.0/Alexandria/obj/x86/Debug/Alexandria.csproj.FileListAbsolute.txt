@@ -1,0 +1,477 @@
+G:\Library Sytem\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+G:\Library Sytem\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+G:\Library Sytem\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+G:\Library Sytem\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+G:\Library Sytem\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Library Sytem\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+G:\Library Sytem\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Library Sytem\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Library Sytem\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+G:\Library Sytem\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+G:\Library Sytem\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+G:\Library Sytem\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+G:\Library Sytem\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Forms.frmABC.resources
+G:\Library Sytem\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Member.resources
+G:\Library Sytem\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Forms.frmTest.resources
+C:\Users\User\Desktop\Library Sytem 13 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+C:\Users\User\Desktop\Library Sytem 13 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 13 Aug\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+C:\Users\User\Desktop\Library Sytem 13 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 13 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 13 Aug\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Library Sytem 13 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+C:\Users\User\Desktop\Library Sytem 13 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+C:\Users\User\Desktop\Library Sytem 13 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+C:\Users\User\Desktop\Library Sytem 13 Aug\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Library Sytem 13 Aug\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\Library Sytem 13 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 13 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Form1.resources
+C:\Users\User\Desktop\Library Sytem 13 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+C:\Users\User\Desktop\Library Sytem 13 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+C:\Users\Performance\Desktop\Library Sytem 15 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+C:\Users\Performance\Desktop\Library Sytem 15 Aug\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Performance\Desktop\Library Sytem 15 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+C:\Users\Performance\Desktop\Library Sytem 15 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+C:\Users\Performance\Desktop\Library Sytem 15 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+C:\Users\Performance\Desktop\Library Sytem 15 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Form1.resources
+C:\Users\Performance\Desktop\Library Sytem 15 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+C:\Users\Performance\Desktop\Library Sytem 15 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+C:\Users\Performance\Desktop\Library Sytem 15 Aug\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Performance\Desktop\Library Sytem 15 Aug\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Performance\Desktop\Library Sytem 15 Aug\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+C:\Users\Performance\Desktop\Library Sytem 15 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+C:\Users\Performance\Desktop\Library Sytem 15 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+C:\Users\Performance\Desktop\Library Sytem 15 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+C:\Users\Performance\Desktop\Library Sytem 15 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 16 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+C:\Users\User\Desktop\Library Sytem 16 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 16 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 16 Aug\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+C:\Users\User\Desktop\Library Sytem 16 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 16 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 16 Aug\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Library Sytem 16 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+C:\Users\User\Desktop\Library Sytem 16 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+C:\Users\User\Desktop\Library Sytem 16 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+C:\Users\User\Desktop\Library Sytem 16 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+C:\Users\User\Desktop\Library Sytem 16 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+C:\Users\User\Desktop\Library Sytem 16 Aug\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Library Sytem 16 Aug\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\Library Sytem 16 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmTest.resources
+C:\Users\Performance\Desktop\Library Sytem 17 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+C:\Users\Performance\Desktop\Library Sytem 17 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+C:\Users\Performance\Desktop\Library Sytem 17 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+C:\Users\Performance\Desktop\Library Sytem 17 Aug\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+C:\Users\Performance\Desktop\Library Sytem 17 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+C:\Users\Performance\Desktop\Library Sytem 17 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+C:\Users\Performance\Desktop\Library Sytem 17 Aug\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Performance\Desktop\Library Sytem 17 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+C:\Users\Performance\Desktop\Library Sytem 17 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+C:\Users\Performance\Desktop\Library Sytem 17 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+C:\Users\Performance\Desktop\Library Sytem 17 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmTest.resources
+C:\Users\Performance\Desktop\Library Sytem 17 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+C:\Users\Performance\Desktop\Library Sytem 17 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+C:\Users\Performance\Desktop\Library Sytem 17 Aug\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Performance\Desktop\Library Sytem 17 Aug\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\Library Sytem 19 Aug\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Library Sytem 19 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+C:\Users\User\Desktop\Library Sytem 19 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+C:\Users\User\Desktop\Library Sytem 19 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmIssues.resources
+C:\Users\User\Desktop\Library Sytem 19 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmReturnExt.resources
+C:\Users\User\Desktop\Library Sytem 19 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+C:\Users\User\Desktop\Library Sytem 19 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmTest.resources
+C:\Users\User\Desktop\Library Sytem 19 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+C:\Users\User\Desktop\Library Sytem 19 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+C:\Users\User\Desktop\Library Sytem 19 Aug\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Library Sytem 19 Aug\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\Library Sytem 19 Aug\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+C:\Users\User\Desktop\Library Sytem 19 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+C:\Users\User\Desktop\Library Sytem 19 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 19 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 19 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 19 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmIssues.resources
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmReturnExt.resources
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmTest.resources
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBookDetail.resources
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCheckIO.resources
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmRemBook.resources
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmSetting.resources
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBSearch.resources
+C:\Users\User\Desktop\Library Sytem 20 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCash.resources
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmRemBook.resources
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBSearch.resources
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCash.resources
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCheckIO.resources
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmSetting.resources
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmIssues.resources
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmReturnExt.resources
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmTest.resources
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBookDetail.resources
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmNotif.resources
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+C:\Users\Performance\Desktop\Library Sytem 21 Aug\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmRemBook.resources
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBSearch.resources
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCash.resources
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCheckIO.resources
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmNotif.resources
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmSetting.resources
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmIssues.resources
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmReturnExt.resources
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmTest.resources
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBookDetail.resources
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmViewCheckIO.resources
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\Library Sytem 21 Aug - Night\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmExtra.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmRemBook.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBSearch.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCash.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCheckIO.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmNotif.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmSetting.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmIssues.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmReturnExt.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmTest.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBookDetail.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmViewCheckIO.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmExtra.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmRemBook.resources
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBSearch.resources
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCash.resources
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCheckIO.resources
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmNotif.resources
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmSetting.resources
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmIssues.resources
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmReturnExt.resources
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmTest.resources
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBookDetail.resources
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmViewCheckIO.resources
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmExtra.resources
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Performance\Desktop\Library Sytem 22 Aug - Testing\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmRemBook.resources
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBSearch.resources
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCash.resources
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCheckIO.resources
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmNotif.resources
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmSetting.resources
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmIssues.resources
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmReturnExt.resources
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmTest.resources
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBookDetail.resources
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmViewCheckIO.resources
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmExtra.resources
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmRemBook.resources
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBSearch.resources
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCash.resources
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCheckIO.resources
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmNotif.resources
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmSetting.resources
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmIssues.resources
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmReturnExt.resources
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmTest.resources
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBookDetail.resources
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmViewCheckIO.resources
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmExtra.resources
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+C:\Users\Performance\Desktop\Library Sytem 23 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmRemBook.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBSearch.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCash.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCheckIO.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmNotif.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmSetting.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmIssues.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmReturnExt.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmTest.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBookDetail.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmViewCheckIO.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmExtra.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Library Sytem 24 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmRemBook.resources
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBSearch.resources
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCash.resources
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCheckIO.resources
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmNotif.resources
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmSetting.resources
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmIssues.resources
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmReturnExt.resources
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmTest.resources
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBookDetail.resources
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmViewCheckIO.resources
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmExtra.resources
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmRemBook.resources
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBSearch.resources
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCash.resources
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCheckIO.resources
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmNotif.resources
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmSetting.resources
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmIssues.resources
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmReturnExt.resources
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmTest.resources
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBookDetail.resources
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmViewCheckIO.resources
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmExtra.resources
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Performance\Desktop\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmRemBook.resources
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBSearch.resources
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCash.resources
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCheckIO.resources
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmNotif.resources
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmSetting.resources
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmIssues.resources
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmReturnExt.resources
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmTest.resources
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBookDetail.resources
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmViewCheckIO.resources
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmExtra.resources
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Workshop\Programming Projects\Library Sytem 25 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\bin\Debug\Properties\Resources.resx
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\bin\Debug\Properties\Resources.Designer.cs
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmRemBook.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBSearch.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCash.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCheckIO.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmNotif.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmSetting.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmIssues.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmReturnExt.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmTest.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBookDetail.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmViewCheckIO.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmExtra.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmLogin.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAbout.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.exe.manifest
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\bin\Debug\Alexandria.application
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.TrustInfo.xml
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe.manifest
+G:\Workshop\Programming Projects\Library Sytem 27 Aug - Design\Alexandria\Alexandria\obj\x86\Debug\Alexandria.application
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\bin\Debug\Alexandria.exe.config
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.pdb
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\bin\Debug\LibraryDB.mdb
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\bin\Debug\Properties\Resources.resx
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\bin\Debug\Properties\Resources.Designer.cs
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\bin\Debug\Alexandria.exe.manifest
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\bin\Debug\Alexandria.application
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\bin\Debug\Alexandria.exe
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\bin\Debug\Alexandria.pdb
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmRemBook.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBSearch.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCash.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmCheckIO.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmNotif.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmSetting.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmIssues.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmReturnExt.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmTest.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmBookDetail.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmViewCheckIO.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmExtra.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmLogin.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.frmAbout.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.TrustInfo.xml
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.exe.manifest
+G:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria\Alexandria\obj\x86\Debug\Alexandria.application
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\bin\Debug\Alexandria.exe.config
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.exe
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.pdb
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\bin\Debug\LibraryDB.mdb
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\bin\Debug\Properties\Resources.resx
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\bin\Debug\Properties\Resources.Designer.cs
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\bin\Debug\Alexandria.exe.manifest
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\bin\Debug\Alexandria.application
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\bin\Debug\Alexandria.exe
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\bin\Debug\Alexandria.pdb
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.csprojResolveAssemblyReference.cache
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmAddBook.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmRemBook.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmBSearch.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmCash.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmCheckIO.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmMain.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmNotif.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmSetting.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmIssues.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmReturnExt.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmMemNew.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmTest.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmMemDetails.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmBookDetail.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmViewCheckIO.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmExtra.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmLogin.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.frmAbout.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.Properties.Resources.resources
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.csproj.GenerateResource.Cache
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.TrustInfo.xml
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.exe.manifest
+J:\My Projects\Programming\Visula C#\Alexandria\Development\Alexandria .NET 4.0\Alexandria\obj\x86\Debug\Alexandria.application

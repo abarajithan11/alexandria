@@ -1,0 +1,60 @@
+//Solving that idiot problem
+
+            this.menu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] { 
+            this.Mem,
+            this.Issues,
+            this.MgBook,
+            this.MgMem,
+            this.Admin,
+            this.aboutToolStripMenuItem,
+            this.Notif,
+this.User
+            });
+
+            this.Mem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] { 
+                this.checkInOutToolStripMenuItem,
+                this.bookSearchToolStripMenuItem
+            });
+
+            this.Issues.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] { 
+                this.bookIssuesToolStripMenuItem,
+                this.bookReturnsToolStripMenuItem
+            });
+
+            this.MgBook.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] { 
+                this.newBooksStockToolStripMenuItem,
+                this.removeBooksToolStripMenuItem,
+                this.bookDetailsToolStripMenuItem
+            });
+
+            this.MgMem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] { 
+                this.newMembershipToolStripMenuItem,
+                this.updateMembershipToolStripMenuItem,
+                this.deleteMemberToolStripMenuItem,
+                this.renewMembershipToolStripMenuItem,
+                this.memberDetailsToolStripMenuItem
+            });
+
+            this.Admin.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] { 
+                this.transactionsToolStripMenuItem,
+                this.memberLogToolStripMenuItem,
+                this.extrasToolStripMenuItem,
+                this.preferancesToolStripMenuItem
+            });
+
+this.User.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.EditAcc,
+            this.logOutToolStripMenuItem});
+
+this.projectDocumentsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.systemDesignToolStripMenuItem,
+            this.projectDocumentationToolStripMenuItem,
+            this.projectCodingToolStripMenuItem});
+
+            this.aboutToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.userGuideToolStripMenuItem,
+            this.projectDocumentsToolStripMenuItem,
+            this.aboutToolStripMenuItem1});
+
+
+            //
